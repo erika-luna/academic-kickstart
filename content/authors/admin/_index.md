@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Erika Luna-Perez
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of British Columbia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: bla.
 
 interests:
 - Artificial Intelligence
