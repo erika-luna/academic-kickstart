@@ -47,7 +47,7 @@ social:
   link: "mailto:lunap.erika@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/erikaluanp
+  link: https://twitter.com/erikalunap
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
