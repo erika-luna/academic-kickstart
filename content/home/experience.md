@@ -25,12 +25,6 @@ date_format = "Jan 2006"
   date_start = "2021-05-01"
   date_end = ""
   description = """Conducting a literature review about the intersection of the Gender Data Revolution and development."""
- # Responsibilities include:
-  
- # * Analysing
- # * Modelling
- # * Deploying
- 
 
 [[experience]]
   title = "Sustainable Foof Systems Data Analyst"
