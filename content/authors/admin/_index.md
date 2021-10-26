@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: MSs in Resources, Environment and Sustainability
+  - course: MSc in Resources, Environment and Sustainability
     institution: University of British Columbia
-    year: 2021
+    year: Almost finished!
   - course: BSc in Earth and Environmental Sciences
     institution: National Autonomous University of Mexico
     year: 2019
