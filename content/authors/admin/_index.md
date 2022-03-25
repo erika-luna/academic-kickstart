@@ -10,18 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc Student
+role: Junior Policy Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: University of British Columbia
-  url: ""
+- name: International Institute for Sustainable Development
+  url: "https://www.iisd.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: bla.
 
 interests:
-- Food Security
+- Food Security, Sutainable Trade
 - Gender in Food Systems and Development
 - Data Visualization
 
@@ -29,7 +29,7 @@ education:
   courses:
   - course: MSc in Resources, Environment and Sustainability
     institution: University of British Columbia
-    year: Almost finished!
+    year: 2021
   - course: BSc in Earth and Environmental Sciences
     institution: National Autonomous University of Mexico
     year: 2019
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am an MSc student at the Institute for Resources, Environment and Sustainability at The University and British Columbia. I have more than four years of research experience in socio-environmental systems employing various quantitative and qualitative data analysis methods.
+I am a Junior Policy Analyst at the International Institute for Sustainable Development, working with the State of Sustainability Initiatives. I have more than four years of research experience in socio-environmental systems employing various quantitative and qualitative data analysis methods.
