@@ -21,7 +21,8 @@ organizations:
 bio: bla.
 
 interests:
-- Food Security, Sutainable Trade
+- Food Security
+- Sutainable Trade
 - Gender in Food Systems and Development
 - Data Visualization
 
@@ -48,6 +49,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/erikalunap
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@lunap.erika
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -59,6 +63,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
