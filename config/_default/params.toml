@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "DAMUSA"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "429-2202 Main Mall", city = "Vancouver", region = "BC", postcode = "V6T 1Z4", country = "Canada", country_code = "CA"}
+address = {street = "", city = "Vancouver", region = "BC", postcode = "", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "49.264155", longitude = "-123.250998"}
+# coordinates = {latitude = "49.264155", longitude = "-123.250998"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -273,7 +273,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  engine = 0
   api_key = ""
   zoom = 15
 
