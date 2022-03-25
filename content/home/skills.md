@@ -27,10 +27,10 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "layer-group"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "GIS"
+  description = "70%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
