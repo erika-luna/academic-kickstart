@@ -21,10 +21,10 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "code-merge"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "NVIVO"
+  description = "90%"  
   
 [[feature]]
   icon = "layer-group"
