@@ -5,7 +5,7 @@ name = "Minimal"
 light = true
 
 # Primary
-primary = "#E5E7E9"
+primary = "rgb(53, 57, 65)"
 
 # Menu
 menu_primary = "#5F85DB"
@@ -15,7 +15,9 @@ menu_title = "#90B8F8"
 
 # Home sections
 home_section_odd = "rgb(95, 133, 219)"
-home_section_even = "rgb(53, 57, 65)"
+home_section_even = "#BEC7D9"
+
+# "rgb(53, 57, 65)"
 
 [dark]
   link = "#5F85DB"
