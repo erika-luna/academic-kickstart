@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Erika Luna-Perez
+title: Erika Luna
 
 # Username (this should match the folder name)
 authors:
@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Junior Policy Analyst at the International Institute for Sustainable Development, working with the State of Sustainability Initiatives. I have more than four years of research experience in socio-environmental systems employing various quantitative and qualitative data analysis methods.
+I am a Junior Policy Analyst at the International Institute for Sustainable Development, working with the State of Sustainability Initiatives. I have research and advisory services experience in socio-environmental systems employing various quantitative and qualitative data analysis methods.
